@@ -1,0 +1,16 @@
+{
+  "0": "Protokol & Lingkungan Komputasi",
+  "1": "Metrik Evaluasi & Error Analysis",
+  "2": "Model Training & Latency Benchmarks",
+  "3": "Audit Dataset & Perturbasi Citra",
+  "4": "Data Loading & Prediksi Inferensi",
+  "5": "Grad-CAM Hooks & Spasial Heatmap",
+  "6": "Eksekusi Streaming Notebook Riset",
+  "7": "Validasi Isolasi Profil Lingkungan",
+  "8": "Validasi Integritas Protokol Riset",
+  "9": "Adebayo Sanity Check & Korelasi",
+  "10": "Partisi Graf Duplikat (Union-Find)",
+  "11": "Runner Validasi Smoke Notebook",
+  "12": "Pipeline Runner Smoke Standalone",
+  "13": "Notebook Structure Formatter"
+}

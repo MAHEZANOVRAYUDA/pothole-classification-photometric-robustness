@@ -1,0 +1,98 @@
+{
+  "analysis/dual_profile_unit_validation_result.json": {
+    "mtime": 1791784342.3209922,
+    "seen": 1791785603.3173397,
+    "ast_hash": "2408c67f502ea0a200d36771f0717690",
+    "semantic_hash": "2408c67f502ea0a200d36771f0717690"
+  },
+  "analysis/execute_research_in_notebook.py": {
+    "mtime": 1791785207.6636477,
+    "seen": 1791785603.3173447,
+    "ast_hash": "6ebbe024358cb2aa5e0c7b1a1c92d7d9",
+    "semantic_hash": "6ebbe024358cb2aa5e0c7b1a1c92d7d9"
+  },
+  "analysis/execute_smoke_in_notebook.py": {
+    "mtime": 1791784119.0912483,
+    "seen": 1791785603.3173473,
+    "ast_hash": "b5115e12091bec4b85259958c803c388",
+    "semantic_hash": "b5115e12091bec4b85259958c803c388"
+  },
+  "analysis/profile_isolation_validation_result.json": {
+    "mtime": 1791784303.2118523,
+    "seen": 1791785603.3173487,
+    "ast_hash": "3e994884c0d13ab8e1ceaaafcf08a9ab",
+    "semantic_hash": "3e994884c0d13ab8e1ceaaafcf08a9ab"
+  },
+  "analysis/run_smoke_validation.py": {
+    "mtime": 1791427875.890175,
+    "seen": 1791785603.31735,
+    "ast_hash": "90ec36ebc53dedd34b261e677e90a314",
+    "semantic_hash": "90ec36ebc53dedd34b261e677e90a314"
+  },
+  "analysis/update_notebook_structure.py": {
+    "mtime": 1791784004.018093,
+    "seen": 1791785603.3173509,
+    "ast_hash": "b1984b476a743e59f92310d675bebb7e",
+    "semantic_hash": "b1984b476a743e59f92310d675bebb7e"
+  },
+  "analysis/validate_profile_isolation.py": {
+    "mtime": 1791783632.498641,
+    "seen": 1791785603.3173518,
+    "ast_hash": "a677222515e0217c3366824ca30b6eea",
+    "semantic_hash": "a677222515e0217c3366824ca30b6eea"
+  },
+  "analysis/validate_protocol.py": {
+    "mtime": 1791783749.1147118,
+    "seen": 1791785603.3173528,
+    "ast_hash": "33bb320ef1051d269d81f4095d928475",
+    "semantic_hash": "33bb320ef1051d269d81f4095d928475"
+  },
+  "protocol_v2_1.py": {
+    "mtime": 1791783873.2780645,
+    "seen": 1791785603.3173537,
+    "ast_hash": "de74fa0b1d433ba4e65994c8a56ad466",
+    "semantic_hash": "de74fa0b1d433ba4e65994c8a56ad466"
+  },
+  "validasi/gradcam_model_integrity.json": {
+    "mtime": 1791427875.9451816,
+    "seen": 1791785603.3173547,
+    "ast_hash": "1a6f4dafdf4adafbb4fabd1888214226",
+    "semantic_hash": "1a6f4dafdf4adafbb4fabd1888214226"
+  },
+  "validasi/profile_isolation_validation_result.json": {
+    "mtime": 1791427875.9295266,
+    "seen": 1791785603.3173559,
+    "ast_hash": "4a59d5d711d00d56cb41608430f2a753",
+    "semantic_hash": "4a59d5d711d00d56cb41608430f2a753"
+  },
+  "validasi/smoke_validation_result.json": {
+    "mtime": 1791427875.920539,
+    "seen": 1791785603.317357,
+    "ast_hash": "0c92117fb6ea87ff25facac1c4a0500c",
+    "semantic_hash": "0c92117fb6ea87ff25facac1c4a0500c"
+  },
+  "validasi/v2_sebelumnya/smoke_validation_result.json": {
+    "mtime": 1791427875.954343,
+    "seen": 1791785603.3173578,
+    "ast_hash": "3ae4f414af94707bd5d65dcce734db81",
+    "semantic_hash": "3ae4f414af94707bd5d65dcce734db81"
+  },
+  "validasi/v2_sebelumnya/unit_validation_result.json": {
+    "mtime": 1791427875.9612496,
+    "seen": 1791785603.3173587,
+    "ast_hash": "1cd22a2ba367af9b48b6a53980013b2a",
+    "semantic_hash": "1cd22a2ba367af9b48b6a53980013b2a"
+  },
+  "validasi/v2_sebelumnya/validation_manifest.json": {
+    "mtime": 1791427875.9705431,
+    "seen": 1791785603.31736,
+    "ast_hash": "81dc4e5106dd80928d0c05401693b972",
+    "semantic_hash": "81dc4e5106dd80928d0c05401693b972"
+  },
+  "validasi/validation_manifest.json": {
+    "mtime": 1791427875.930533,
+    "seen": 1791785603.3173606,
+    "ast_hash": "dc40331fffcc4783a498bbdea58b7d53",
+    "semantic_hash": "dc40331fffcc4783a498bbdea58b7d53"
+  }
+}

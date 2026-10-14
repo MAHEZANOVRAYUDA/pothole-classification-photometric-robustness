@@ -1,0 +1,279 @@
+{
+  "communities": {
+    "0": [
+      "protocol_v2_1",
+      "protocol_v2_1_activate_profile",
+      "protocol_v2_1_bootstrap_all_scopes",
+      "protocol_v2_1_confusion_counts_by_group",
+      "protocol_v2_1_cpu_name",
+      "protocol_v2_1_environment_info",
+      "protocol_v2_1_f1_from_counts",
+      "protocol_v2_1_freeze_protocol",
+      "protocol_v2_1_get_profile_config",
+      "protocol_v2_1_json_ready",
+      "protocol_v2_1_make_conditions",
+      "protocol_v2_1_prediction_tensor",
+      "protocol_v2_1_save_json",
+      "protocol_v2_1_scope_weights",
+      "protocol_v2_1_statistical_comparisons"
+    ],
+    "1": [
+      "protocol_v2_1_binary_metrics",
+      "protocol_v2_1_error_analysis",
+      "protocol_v2_1_evaluate_baselines",
+      "protocol_v2_1_evaluate_deep",
+      "protocol_v2_1_finalize_experiment",
+      "protocol_v2_1_metrics_by",
+      "protocol_v2_1_performance_summaries",
+      "protocol_v2_1_plot_confusions",
+      "protocol_v2_1_plot_eda",
+      "protocol_v2_1_rationale_1116",
+      "protocol_v2_1_run_experiment",
+      "protocol_v2_1_save_fig",
+      "protocol_v2_1_save_table",
+      "protocol_v2_1_split_frames",
+      "protocol_v2_1_train_experiment"
+    ],
+    "2": [
+      "protocol_v2_1_atomic_torch_save",
+      "protocol_v2_1_benchmark_latency",
+      "protocol_v2_1_build_model",
+      "protocol_v2_1_count_conv_linear_macs",
+      "protocol_v2_1_file_sha256",
+      "protocol_v2_1_fit_run",
+      "protocol_v2_1_load_eval_model",
+      "protocol_v2_1_rationale_366",
+      "protocol_v2_1_release_memory",
+      "protocol_v2_1_restore_rng",
+      "protocol_v2_1_rng_state",
+      "protocol_v2_1_run_benchmarks",
+      "protocol_v2_1_run_one_epoch",
+      "protocol_v2_1_safe_load"
+    ],
+    "3": [
+      "protocol_v2_1_audit_dataset",
+      "protocol_v2_1_calculate_dhash",
+      "protocol_v2_1_condition_image",
+      "protocol_v2_1_condition_seed",
+      "protocol_v2_1_extract_features",
+      "protocol_v2_1_image_stats",
+      "protocol_v2_1_load_rgb",
+      "protocol_v2_1_perturb_image",
+      "protocol_v2_1_rationale_226",
+      "protocol_v2_1_resize_image",
+      "protocol_v2_1_roaddataset_getitem",
+      "protocol_v2_1_stable_int",
+      "protocol_v2_1_tensor_image"
+    ],
+    "4": [
+      "dataset",
+      "inference_mode",
+      "protocol_v2_1_assert_prediction_grid",
+      "protocol_v2_1_condition_id",
+      "protocol_v2_1_make_loader",
+      "protocol_v2_1_predict_run",
+      "protocol_v2_1_roaddataset",
+      "protocol_v2_1_roaddataset_init",
+      "protocol_v2_1_roaddataset_len",
+      "protocol_v2_1_seed_worker"
+    ],
+    "5": [
+      "protocol_v2_1_gradcam",
+      "protocol_v2_1_gradcam_call",
+      "protocol_v2_1_gradcam_capture",
+      "protocol_v2_1_gradcam_close",
+      "protocol_v2_1_gradcam_enter",
+      "protocol_v2_1_gradcam_exit",
+      "protocol_v2_1_gradcam_init"
+    ],
+    "6": [
+      "analysis_execute_research_in_notebook",
+      "analysis_execute_research_in_notebook_main",
+      "analysis_execute_research_in_notebook_rationale_12",
+      "analysis_execute_research_in_notebook_streamingnotebookclient",
+      "analysis_execute_research_in_notebook_streamingnotebookclient_output",
+      "notebookclient"
+    ],
+    "7": [
+      "analysis_validate_profile_isolation",
+      "analysis_validate_profile_isolation_passed",
+      "analysis_validate_profile_isolation_py_exception",
+      "analysis_validate_profile_isolation_rationale_1",
+      "analysis_validate_profile_isolation_stop_before_eda",
+      "analysis_validate_profile_isolation_stopafterresearchaudit"
+    ],
+    "8": [
+      "analysis_validate_protocol",
+      "analysis_validate_protocol_interrupt_after_checkpoint",
+      "analysis_validate_protocol_passed",
+      "analysis_validate_protocol_plannedinterruption",
+      "analysis_validate_protocol_py_exception",
+      "analysis_validate_protocol_reject_build"
+    ],
+    "9": [
+      "protocol_v2_1_gradcam_analysis",
+      "protocol_v2_1_overlay_heatmap",
+      "protocol_v2_1_reset_randomized_model",
+      "protocol_v2_1_safe_spearman",
+      "protocol_v2_1_set_seed",
+      "protocol_v2_1_state_signature"
+    ],
+    "10": [
+      "protocol_v2_1_unionfind",
+      "protocol_v2_1_unionfind_find",
+      "protocol_v2_1_unionfind_init",
+      "protocol_v2_1_unionfind_union"
+    ],
+    "11": [
+      "analysis_execute_smoke_in_notebook"
+    ],
+    "12": [
+      "analysis_run_smoke_validation"
+    ],
+    "13": [
+      "analysis_update_notebook_structure"
+    ]
+  },
+  "cohesion": {
+    "0": 0.23809523809523808,
+    "1": 0.2571428571428571,
+    "2": 0.16483516483516483,
+    "3": 0.23076923076923078,
+    "4": 0.2222222222222222,
+    "5": 0.3333333333333333,
+    "6": 0.4,
+    "7": 0.4,
+    "8": 0.4,
+    "9": 0.3333333333333333,
+    "10": 0.6666666666666666,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0
+  },
+  "gods": [
+    {
+      "id": "protocol_v2_1_run_experiment",
+      "label": "run_experiment()",
+      "degree": 20
+    },
+    {
+      "id": "protocol_v2_1_gradcam_analysis",
+      "label": "gradcam_analysis()",
+      "degree": 17
+    },
+    {
+      "id": "protocol_v2_1_fit_run",
+      "label": "fit_run()",
+      "degree": 15
+    },
+    {
+      "id": "protocol_v2_1_save_table",
+      "label": "save_table()",
+      "degree": 10
+    },
+    {
+      "id": "protocol_v2_1_predict_run",
+      "label": "predict_run()",
+      "degree": 10
+    },
+    {
+      "id": "protocol_v2_1_split_frames",
+      "label": "split_frames()",
+      "degree": 9
+    },
+    {
+      "id": "protocol_v2_1_audit_dataset",
+      "label": "audit_dataset()",
+      "degree": 9
+    },
+    {
+      "id": "protocol_v2_1_gradcam",
+      "label": "GradCAM",
+      "degree": 8
+    },
+    {
+      "id": "protocol_v2_1_save_json",
+      "label": "save_json()",
+      "degree": 8
+    },
+    {
+      "id": "protocol_v2_1_condition_image",
+      "label": "condition_image()",
+      "degree": 8
+    }
+  ],
+  "surprises": [
+    {
+      "source": "audit_dataset()",
+      "target": "UnionFind",
+      "source_files": [
+        "protocol_v2_1.py",
+        "protocol_v2_1.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 10 → community 3"
+    },
+    {
+      "source": "fit_run()",
+      "target": "RoadDataset",
+      "source_files": [
+        "protocol_v2_1.py",
+        "protocol_v2_1.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 4 → community 2"
+    },
+    {
+      "source": "gradcam_analysis()",
+      "target": "GradCAM",
+      "source_files": [
+        "protocol_v2_1.py",
+        "protocol_v2_1.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 5 → community 9"
+    },
+    {
+      "source": "run_experiment()",
+      "target": "activate_profile()",
+      "source_files": [
+        "protocol_v2_1.py",
+        "protocol_v2_1.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 0 → community 1"
+    },
+    {
+      "source": "prediction_tensor()",
+      "target": "condition_id()",
+      "source_files": [
+        "protocol_v2_1.py",
+        "protocol_v2_1.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 0 → community 4"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `GradCAM` connect `GradCAM` to `protocol_v2_1.py`, `gradcam_analysis`?",
+      "why": "High betweenness centrality (0.089) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `RoadDataset` connect `predict_run` to `protocol_v2_1.py`, `fit_run`, `audit_dataset`?",
+      "why": "High betweenness centrality (0.048) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `UnionFind` connect `UnionFind` to `protocol_v2_1.py`, `audit_dataset`?",
+      "why": "High betweenness centrality (0.045) - this node is a cross-community bridge."
+    }
+  ]
+}
